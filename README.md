@@ -9,6 +9,6 @@
 
 Con estos pasos Vamos a poder ya ejecutar el servicio y consumirlo un saludo.
 
-By Pol Aguilar Cardus.
+UN SALUDO, POL.
 
 
